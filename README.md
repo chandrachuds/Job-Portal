@@ -1,5 +1,5 @@
 # Job Portal
-Job Portal made with Django.    
+Job Portal made with Django & Bootstrap.    
 
 
 ## Installation 
